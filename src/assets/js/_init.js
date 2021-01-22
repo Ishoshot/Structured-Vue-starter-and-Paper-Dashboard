@@ -1,0 +1,6 @@
+import '../paper/js/core/jquery.min'
+import '../paper/js/core/popper.min'
+import '../paper/js/core/bootstrap.min'
+import '../paper/js/plugins/perfect-scrollbar.jquery.min'
+import '../paper/js/plugins/chartjs.min'
+import '../paper/js/plugins/bootstrap-notify'
