@@ -1,4 +1,4 @@
-# exchange
+# Structured-Vue-starter-and-Paper-Dashboard
 
 ## Project setup
 ```
